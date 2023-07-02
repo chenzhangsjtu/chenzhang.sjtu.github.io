@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+我的研究主要集中于面向人工智能系统的体系结构和设计自动化的创新，通过对算法、框架、算子、架构的垂直整合，从底层突破AI系统的算力瓶颈。围绕上述研究方向，我在体系结构、EDA和人工智能重要国际会议和期刊发表论文21篇（其中CCF-A类10篇）。论文引用量超过3800次，h-index达13，并获得多项奖励和荣誉，包括FPGA-15最佳论文提名，FPGA会议历史高被引论文第一名，Donald O. Pederson 2017-2019年最佳论文奖（首个中国大陆获奖者），2021/2022/2023 年 AI 2000 人工智能芯片技术世界最有影响力学者第二名，2019/2021 Elsevier 世界前2%高被引科学家（计算机硬件与体系结构领域），ACM Chinasys 新星奖。
 
 我致力于同时具有学术贡献和产业影响力的研究。在博士期间，所开发的FPGA人工智能加速器性能建模与自动化设计方法被许多AI巨头和创业公司参考使用，包括Google、Xilinx、Empyrean Soft，Moffett AI等。在UCLA访问期间，基于FPGA高层次综合工具HLS所开发的自动化人工智能加速框架被上万人使用，并在创业公司 Falcon Computing落地（于2020年被美国Xilinx公司收购）。在微软，我做出了多项重要科研成果转化，其异构硬件加速技术在微软“云-边-端”各级人工智能系统中获得部署和应用，包括Azure智能语音服务、Bing search、Azure FPGA集群以及智能交通系统等。由于突出贡献，我获得微软研究院院长签发的院长特别奖。我所提出的稀疏神经网络加速方法在国际GPU芯片巨头NVIDIA新一代Ampere架构和Hopper架构稀疏张量运算单元中得到应用。
+
+我于2021年3月加入阿里巴巴平头哥半导体有限公司，立志于帮助国产芯片赶超国际同行。作为核心架构团队成员之一，我完整地参与了平头哥AI并行计算芯片从零到一，设计、验证、生产流片的全过程，并负责完成了多项架构设计的研究和落地，包括高性能跨芯片互联架构、分布式通信软硬件接口、内存模型等。作为平头哥并行计算团队唯一学术合作联系人，我致力于将国际先进研究成果带入到工程团队，包括新一代稀疏张量运算单元、Transformer加速器等，并主持和促进多项研究团队与平头哥技术研究合作。
 
 A data-driven personal website
 ======
