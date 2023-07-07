@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* [2008~2012] B.S. in Micro-electronics, University of Electronic Science and Technology of China
+* [2012~2017] Ph.D in Computer System and Architecture, Peking University
+* [2015~2016] Visiting Scholar in Computer Science, University of California, Los Angeles
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Alibaba T-head: Chip Architect (P-8)
+  * Parallel Comupting Department
+  * Duties: GPGPU Micro-architecture, Direct Chip Connection, AI Acceleration
+  * TL: Dr. Yuan Xie
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Microsoft Research Asia: Researcher
+  * System and Networking Research Group, Associate Researcher ~ Senior Researcher
+  * Duties: AI System and Heterogenous Computing
+  * TL: Dr. Lidong Zhou
   
-Skills
+Research Interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Heterogenous Computing for AI Systems
+  * Sparse Computing
+  * Parallel Computing and Inter-chip Connection
+* Computer Architectures
+  * Reconfigurable Computing & FPGA
+  * GPGPU Architecture
+  * Emerging Computing Architecture
 
 Publications
 ======
