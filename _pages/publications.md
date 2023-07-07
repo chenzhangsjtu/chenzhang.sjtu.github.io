@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. Cong Guo, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo, "Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training", 2022 IEEE 40th International Conference on Computer Design (ICCD 2022)【[PDF](https://zhacmsra.github.io//files/2022-ICCD.pdf)】
+
+1. Cong Guo, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization", 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://zhacmsra.github.io//files/2022-MICRO.pdf)】
+
 1. Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo, "SQuant: On-the-fly data-free quantization via diagonal hessian approximation", International Conference on Learning (ICLR 2022) 【[PDF](https://zhacmsra.github.io//files/2022-ICLR.pdf)】
 
 1. Yun Li, Chen Zhang, Shihao Han, Li Lyna Zhang, Baoqun Yin, Yunxin Liu, Mengwei Xu, "Boosting mobile CNN inference through semantic memory", Proceedings of the 29th ACM International Conference on Multimedia (Multimedia 2021)【[PDF](https://zhacmsra.github.io//files/2021-ACMMultimedia.pdf)】
