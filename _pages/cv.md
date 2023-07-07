@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* **Alibaba T-head**: Chip Architect (P-8)
+* **Alibaba T-head**: Chip Architect (P8)
   * Parallel Comupting Department
   * Duties: GPGPU Micro-architecture, Direct Chip Connection, AI Acceleration
   * TL: Dr. Yuan Xie (VP Alibaba, IEEE/ACM/AAAS Fellow)
