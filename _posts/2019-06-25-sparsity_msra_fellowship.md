@@ -1,0 +1,11 @@
+---
+title: '我联合指导的曹士杰博士获得MSRA Fellowship奖学金'
+date: 2019-11-18
+permalink: /posts/2019/06/intern/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+[哈工大计算学部](http://cs.hit.edu.cn/2019/1118/c11270a232986/pagem.htm)
