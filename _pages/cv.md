@@ -19,21 +19,22 @@ Education / 教育
     * National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow
 * [2008~2012] **B.S.** in Micro-electronics, University of Electronic Science and Technology of China
 
-Professtional experience / 工作经历
+Work Experience / 工作经历
 ======
-* [2023~Present] **SJTU**: Tenure-track Associate Professor
+* [2023~Present] **Shanghai Jiao Tong University**:
+  * Tenure-track Associate Professor
   * Department of Micro-nano Electronics
   * School of Electronic Information and Electrical Engineering
 
-* [2021~2023] **Alibaba T-head**: Chip Architect (P8)
-  * Parallel Comupting Department
+* [2021~2023] **Alibaba T-head**, Parallel Comupting Department
+  * Chip Architect (P8)
   * Duties: GPGPU Micro-architecture, Direct Chip Connection, AI Acceleration
-  * TL: Dr. Yuan Xie (VP Alibaba, IEEE/ACM/AAAS Fellow)
+  * Team Leader: Dr. Yuan Xie (VP Alibaba, IEEE/ACM/AAAS Fellow)
 
-* [2017~2021] **Microsoft Research Asia**: Associate Researcher ~ Senior Researcher
-  * System and Networking Research Group
+* [2017~2021] **Microsoft Research Asia**,System and Networking Research Group
+  * Associate Researcher ~ Senior Researcher
   * Duties: AI System and Heterogenous Computing
-  * TL: Dr. Lidong Zhou (CVP Microsoft, IEEE/ACM Fellow)
+  * Team Leader: Dr. Lidong Zhou (CVP Microsoft, IEEE/ACM Fellow)
   
 Research Interest
 ======
