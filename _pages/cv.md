@@ -22,8 +22,8 @@ Work experience
   * Duties: GPGPU Micro-architecture, Direct Chip Connection, AI Acceleration
   * TL: Dr. Yuan Xie
 
-* Microsoft Research Asia: Researcher
-  * System and Networking Research Group, Associate Researcher ~ Senior Researcher
+* Microsoft Research Asia: Associate Researcher ~ Senior Researcher
+  * System and Networking Research Group
   * Duties: AI System and Heterogenous Computing
   * TL: Dr. Lidong Zhou
   
