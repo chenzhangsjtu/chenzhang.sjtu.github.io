@@ -1,0 +1,11 @@
+---
+title: '我的实习生黄翰贤同学获得MSRA的优秀实习生专访'
+date: 2019-06-03
+permalink: /posts/2019/06/intern/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+[微软学术合作](https://mp.weixin.qq.com/s/Zs_CWN-y0_QKS-fXwJrKhA)
