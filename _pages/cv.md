@@ -13,10 +13,10 @@ Education
 ======
 * [2008~2012] B.S. in Micro-electronics, University of Electronic Science and Technology of China
 * [2012~2017] Ph.D in Computer System and Architecture, Peking University
-  * Supervisor: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) (Distinguished Visiting Professor until 2020)
-                [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)
+  * Supervisor 1: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) (Distinguished Visiting Professor until 2020)
+  * Supervisor 2: [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)
 * [2015~2016] Visiting Scholar in Computer Science, University of California, Los Angeles
-* Supervisor: Prof. Jason Cong (National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow)
+  * Supervisor: Prof. Jason Cong (National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow)
 
 Work experience
 ======
