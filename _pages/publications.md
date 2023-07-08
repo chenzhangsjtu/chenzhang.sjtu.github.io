@@ -4,7 +4,7 @@ title: "Publications / 出版物"
 permalink: /publications/
 author_profile: true
 ---
-1. Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, *Chen Zhang*, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization", Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA 2023), 【[PDF](https://zhacmsra.github.io//files/2023-ISCA.pdf)】
+1. Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, *Chen Zhang*, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization", Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA 2023)【[PDF](https://zhacmsra.github.io//files/2023-ISCA.pdf)】
 
 1. Cong Guo, Yuxian Qiu, Jingwen Leng, *Chen Zhang*, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo, "Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training", 2022 IEEE 40th International Conference on Computer Design (ICCD 2022)【[PDF](https://zhacmsra.github.io//files/2022-ICCD.pdf)】
 
