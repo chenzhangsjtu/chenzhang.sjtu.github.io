@@ -48,7 +48,7 @@ author_profile: true
 
 1. Peng Wang, Guangyu Sun, Song Jiang, Jian Ouyang, Shiding Lin, *Chen Zhang*, Jason Cong, "An efficient design and implementation of LSM-tree based key-value store on open-channel SSD", Proceedings of the Ninth European Conference on Computer Systems (EuroSys 2014)【[PDF](https://zhacmsra.github.io//files/2014-Eurosys.pdf)】
 
-1. Yuxin Wang, Peng Li, Peng Zhang, *Chen Zhang*, Jason Cong, "", Proceedings of the 50th Annual Design Automation Conference (DAC 2013)【[PDF](https://zhacmsra.github.io//files/2013-DAC.pdf)】
+1. Yuxin Wang, Peng Li, Peng Zhang, *Chen Zhang*, Jason Cong, "Memory partitioning for multidimensional arrays in high-level synthesis", Proceedings of the 50th Annual Design Automation Conference (DAC 2013)【[PDF](https://zhacmsra.github.io//files/2013-DAC.pdf)】
 
 1. Yuxin Wang, Peng Li, Peng Zhang, *Chen Zhang*, Jason Cong, "Automatic multidimensional memory partitioning for FPGA-based accelerators", Proceedings of the ACM/SIGDA international symposium on Field programmable gate arrays (FPGA 2013)
 
