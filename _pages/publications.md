@@ -8,7 +8,7 @@ author_profile: true
 
 1. Cong Guo, Yuxian Qiu, Jingwen Leng, *Chen Zhang*, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo, "Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training", 2022 IEEE 40th International Conference on Computer Design (ICCD 2022)【[PDF](https://zhacmsra.github.io//files/2022-ICCD.pdf)】
 
-1. Cong Guo, *Chen Zhang*, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization", 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://zhacmsra.github.io//files/2022-MICRO.pdf)】
+1. Cong Guo, *Chen Zhang*, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization", Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://zhacmsra.github.io//files/2022-MICRO.pdf)】
   * Award: **MICRO 2023 Top Picks Honorable Mention**
 
 1. Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, *Chen Zhang*, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo, "SQuant: On-the-fly data-free quantization via diagonal hessian approximation", International Conference on Learning (ICLR 2022) 【[PDF](https://zhacmsra.github.io//files/2022-ICLR.pdf)】
@@ -17,7 +17,7 @@ author_profile: true
 
 1. Yang Wang, *Chen Zhang*, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng, "Dual-side sparse tensor core", 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA 2021)【[PDF](https://zhacmsra.github.io//files/2021-ISCA.pdf)】
 
-1. Shuang Jiang, Zhiyao Ma, Xiao Zeng, Chenren Xu, Mi Zhang, *Chen Zhang*, Yunxin Liu, "Scylla: Qoe-aware continuous mobile vision with fpga-based dynamic deep neural network reconfiguration", IEEE Conference on Computer Communications (INFOCOM 2020)【[PDF](https://zhacmsra.github.io//files/2020-INFOCOM.pdf)】
+1. Shuang Jiang, Zhiyao Ma, Xiao Zeng, Chenren Xu, Mi Zhang, *Chen Zhang*, Yunxin Liu, "Scylla: Qoe-aware continuous mobile vision with fpga-based dynamic deep neural network reconfiguration", Proceedings of the 2022 IEEE Conference on Computer Communications (INFOCOM 2020)【[PDF](https://zhacmsra.github.io//files/2020-INFOCOM.pdf)】
 
 1. Yihuan Mao, Yujing Wang, Chufan Wu, *Chen Zhang*, Yang Wang, Yaming Yang, Quanlu Zhang, Yunhai Tong, Jing Bai, "Ladabert: Lightweight adaptation of bert through hybrid model compression", Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)【[PDF](https://zhacmsra.github.io//files/2020-COLING.pdf)】
 
@@ -50,7 +50,7 @@ author_profile: true
 
 1. Yuxin Wang, Peng Li, Peng Zhang, *Chen Zhang*, Jason Cong, "", Proceedings of the 50th Annual Design Automation Conference (DAC 2013)【[PDF](https://zhacmsra.github.io//files/2013-DAC.pdf)】
 
-1. Yuxin Wang, Peng Li, Peng Zhang, *Chen Zhang*, Jason Cong, "Proceedings of the ACM/SIGDA international symposium on Field programmable gate arrays (FPGA 2013)"
+1. Yuxin Wang, Peng Li, Peng Zhang, *Chen Zhang*, Jason Cong, "Automatic multidimensional memory partitioning for FPGA-based accelerators", Proceedings of the ACM/SIGDA international symposium on Field programmable gate arrays (FPGA 2013)
 
 <!-- the following thing is used to link the markdown file in /publications/ folder
 
