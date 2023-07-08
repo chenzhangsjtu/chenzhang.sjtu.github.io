@@ -10,12 +10,14 @@ author_profile: true
 
 1. Cong Guo, *Chen Zhang*, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization", Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://zhacmsra.github.io//files/2022-MICRO.pdf)】
   * Award: **MICRO 2023 Top Picks Honorable Mention**
+  * Keywords: AI acceleration, Tensor Core, Quantization
 
 1. Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, *Chen Zhang*, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo, "SQuant: On-the-fly data-free quantization via diagonal hessian approximation", International Conference on Learning (ICLR 2022) 【[PDF](https://zhacmsra.github.io//files/2022-ICLR.pdf)】
 
-1. Yun Li, *Chen Zhang*, Shihao Han, Li Lyna Zhang, Baoqun Yin, Yunxin Liu, Mengwei Xu, "Boosting mobile CNN inference through semantic memory", Proceedings of the 29th ACM International Conference on Multimedia (Multimedia 2021)【[PDF](https://zhacmsra.github.io//files/2021-ACMMultimedia.pdf)】【[Web](https://mp.weixin.qq.com/s/Lk3Y3rH8NuQwUbdagNOE6Q)】
-
 1. Yang Wang, *Chen Zhang*, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng, "Dual-side sparse tensor core", 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA 2021)【[PDF](https://zhacmsra.github.io//files/2021-ISCA.pdf)】
+  * Keywords: GPGPU, Sparse Tensor Core, AI acceleration
+
+1. Yun Li, *Chen Zhang*, Shihao Han, Li Lyna Zhang, Baoqun Yin, Yunxin Liu, Mengwei Xu, "Boosting mobile CNN inference through semantic memory", Proceedings of the 29th ACM International Conference on Multimedia (Multimedia 2021)【[PDF](https://zhacmsra.github.io//files/2021-ACMMultimedia.pdf)】【[Web](https://mp.weixin.qq.com/s/Lk3Y3rH8NuQwUbdagNOE6Q)】
 
 1. Shuang Jiang, Zhiyao Ma, Xiao Zeng, Chenren Xu, Mi Zhang, *Chen Zhang*, Yunxin Liu, "Scylla: Qoe-aware continuous mobile vision with fpga-based dynamic deep neural network reconfiguration", Proceedings of the 2022 IEEE Conference on Computer Communications (INFOCOM 2020)【[PDF](https://zhacmsra.github.io//files/2020-INFOCOM.pdf)】
 
