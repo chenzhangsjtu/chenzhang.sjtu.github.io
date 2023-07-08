@@ -72,5 +72,8 @@ Academic Service / 学术服务
 ======
 * Served as Program Chair at Chinasys / TURC SIGOPS 2023
 * Served as PC Member at ICCAD 2023
-* Serve as a reviewer at TECS (ACM Transactions on Embedded Computing Systems) and TCC (IEEE Transactions on Cloud Computing)
+* Serve as a reviewer at multiple Transactions / Journals
+  * TECS (ACM Transactions on Embedded Computing Systems) 
+  * TCC (IEEE Transactions on Cloud Computing)
+  * T-CAD (IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems)
 

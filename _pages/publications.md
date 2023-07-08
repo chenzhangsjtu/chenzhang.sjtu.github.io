@@ -24,7 +24,12 @@ author_profile: true
 1. Shang Wang, *Chen Zhang*, Yuanchao Shu, Yunxin Liu, "Live video analytics with FPGA-based smart cameras", Proceedings of the 2019 Workshop on Hot Topics in Video Analytics and Intelligent Edges (HotEdges 2019)【[PDF](https://zhacmsra.github.io//files/2019-HotEdge.pdf)】
 
 1. Shijie Cao, *Chen Zhang*, Zhuliang Yao, Wencong Xiao, Lanshun Nie, Dechen Zhan, Yunxin Liu, Ming Wu, Lintao Zhang, "Efficient and effective sparse LSTM on FPGA with bank-balanced sparsity", Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2019)【[PDF](https://zhacmsra.github.io//files/2019-FPGA.pdf)】
-  * Industrial Impact: Used by NVIDIA Sparse Tensor Core (Ampere and Hopper Architecture)
+  * Industrial Impact: **Used by NVIDIA Sparse Tensor Core (Ampere and Hopper Architecture)**
+  * Keyword: Sparse Neural Network, Acceleration, FPGA
+
+1. Zhuliang Yao, Shijie Cao, Wencong Xiao, Chen Zhang, Lanshun Nie, "Balanced sparsity for efficient dnn inference on gpu", Proceedings of the AAAI conference on artificial intelligence (AAAI 2019) 【[PDF](https://zhacmsra.github.io//files/2019-AAAI.pdf)】
+  * Industrial Impact: **Used by NVIDIA Sparse Tensor Core (Ampere and Hopper Architecture)**
+  * Keyword: Sparse Neural Network, Acceleration, GPGPU
 
 1. Shijie Cao, Lingxiao Ma, Wencong Xiao, *Chen Zhang*, Yunxin Liu, Lintao Zhang, Lanshun Nie, Zhi Yang, "Seernet: Predicting convolutional neural network feature-map sparsity through low-bit quantization", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019)【[PDF](https://zhacmsra.github.io//files/2019-CVPR.pdf)】
 
