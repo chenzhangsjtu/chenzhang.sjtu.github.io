@@ -68,6 +68,9 @@ Teaching
 
 -->
 
-Service and leadership
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Served as Program Chair at Chinasys / TURC SIGOPS 2023
+* Served as PC Member at ICCAD 2023
+* Serve as a reviewer at TECS (ACM Transactions on Embedded Computing Systems) and TCC (IEEE Transactions on Cloud Computing)
+
