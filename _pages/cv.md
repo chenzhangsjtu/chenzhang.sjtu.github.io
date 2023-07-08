@@ -36,7 +36,7 @@ Work Experience / 工作经历
   * Duties: AI System and Heterogenous Computing
   * Team Leader: Dr. Lidong Zhou (CVP Microsoft, IEEE/ACM Fellow)
   
-Research Interest
+Research Interest / 研究兴趣
 ======
 * Heterogenous Computing for AI Systems
   * Sparse Computing
@@ -68,7 +68,7 @@ Teaching
 
 -->
 
-Academic Service
+Academic Service / 学术服务
 ======
 * Served as Program Chair at Chinasys / TURC SIGOPS 2023
 * Served as PC Member at ICCAD 2023
