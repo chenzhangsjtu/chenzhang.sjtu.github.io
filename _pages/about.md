@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Breaking Through AI System's Bottleneck from Bottom Up / 从底层突破AI系统算力瓶颈"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+> Breaking Through AI System's Bottleneck from Bottom Up
+> 从底层突破AI系统算力瓶颈
 
 ## 个人简介
 
