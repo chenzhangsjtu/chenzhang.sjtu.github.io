@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-> Breaking Through AI System's Bottlenecks from Bottom Up / 从底层突破AI系统算力瓶颈
+> Breaking Through AI System's Bottlenecks from Bottom Up 
+> 从底层突破AI系统算力瓶颈
 
 
 ## 个人简介
