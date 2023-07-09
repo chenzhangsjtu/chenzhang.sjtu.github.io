@@ -23,7 +23,7 @@ redirect_from:
 >    * National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow
 >  * [Alunimi Website](https://vast.cs.ucla.edu/people/alumni/chen-zhang)
 
->* [2008~2012] **B.S. / 学士, University of Electronic Science and Technology of China / 电子科技大学**
+>[2008~2012] **B.S. / 学士, University of Electronic Science and Technology of China / 电子科技大学**
 >  * Department of Micro-electronics
 >  * Honored Graduation
 
@@ -95,7 +95,7 @@ Teaching
 >  Served as Program Chair at Chinasys / TURC SIGOPS 2023  
 >  Served as PC Member at ICCAD 2023  
 >  Serve as a reviewer at multiple Transactions / Journals  
->   * TECS (ACM Transactions on Embedded Computing Systems)   
->   * TCC (IEEE Transactions on Cloud Computing)
->   * T-CAD (IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems)
+>   --TECS (ACM Transactions on Embedded Computing Systems)   
+>   --TCC (IEEE Transactions on Cloud Computing)
+>   --T-CAD (IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems)
 
