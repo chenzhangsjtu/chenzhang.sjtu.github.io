@@ -11,17 +11,23 @@ redirect_from:
 
 ## Education / 教育
 
-* [2012~2017] **Ph.D** in Computer System and Architecture, Peking University
+* [2012~2017] **Ph.D**, Peking University / 博士，北京大学
+  * Computer System and Architecture
   * Supervisor 1: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) (Distinguished Visiting Professor until 2020)
   * Supervisor 2: [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)
-* [2015~2016] **Visiting Scholar** in Computer Science, University of California, Los Angeles
+  * [Alunimi Website](https://ceca.pku.edu.cn/people/alumni_postgrad/class2017g/1206149.htm)
+* [2015~2016] **Visiting Scholar**, University of California, Los Angeles / 访问学者，加州大学洛杉矶分校
+  * Computer Science
   * Supervisor: Prof. Jason Cong
     * National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow
-* [2008~2012] **B.S.** in Micro-electronics, University of Electronic Science and Technology of China
+  * [Alunimi Website](https://vast.cs.ucla.edu/people/alumni/chen-zhang)
+* [2008~2012] **B.S.**, University of Electronic Science and Technology of China / 学士，电子科技大学
+  * Department of Micro-electronics
+  * Honored Graduation
 
 ## Work Experience / 工作经历
 
-* [2023~Present] **Shanghai Jiao Tong University**:
+* [2023~Present] **Shanghai Jiao Tong University**
   * Tenure-track Associate Professor
   * Department of Micro-nano Electronics
   * School of Electronic Information and Electrical Engineering
