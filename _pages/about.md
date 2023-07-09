@@ -10,7 +10,6 @@ redirect_from:
 
 
 Breaking Through AI System's Bottlenecks from Bottom Up
-{: .notice}
 从底层突破AI系统算力瓶颈
 {: .notice}
 
