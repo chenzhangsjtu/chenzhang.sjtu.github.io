@@ -19,5 +19,5 @@ main:
   - title: "Teaching"
     url: /teaching/
     
-  #- title: "Students"
-  #  url: /markdown/
+  - title: "Students"
+    url: /markdown/
