@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education / 教育
-======
+## Education / 教育
+
 * [2012~2017] **Ph.D** in Computer System and Architecture, Peking University
   * Supervisor 1: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) (Distinguished Visiting Professor until 2020)
   * Supervisor 2: [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)
@@ -19,8 +19,8 @@ Education / 教育
     * National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow
 * [2008~2012] **B.S.** in Micro-electronics, University of Electronic Science and Technology of China
 
-Work Experience / 工作经历
-======
+## Work Experience / 工作经历
+
 * [2023~Present] **Shanghai Jiao Tong University**:
   * Tenure-track Associate Professor
   * Department of Micro-nano Electronics
@@ -36,8 +36,8 @@ Work Experience / 工作经历
   * Duties: AI System and Heterogenous Computing
   * Team Leader: Dr. Lidong Zhou (CVP Microsoft, IEEE/ACM Fellow)
   
-Research Interest / 研究兴趣
-======
+## Research Interest / 研究兴趣
+
 * Heterogenous Computing for AI Systems
   * Sparse Computing
   * Parallel Computing and Inter-chip Connection
@@ -68,8 +68,8 @@ Teaching
 
 -->
 
-Honors & Awards / 荣誉与奖项
-======
+## Honors & Awards / 荣誉与奖项
+
 **2023** MICRO Top Picks Honorable Mention / 体系结构年度最佳论文提名 
 **2022** ACM Chinasys Rising Star Award / 新星奖, ACM 
 **2022** 人工智能芯片技术世界最有影响力学者（第二名），中国工程科技知识中心 
@@ -81,8 +81,8 @@ Honors & Awards / 荣誉与奖项
 **2015** 优秀科研奖 (1\%), 北京大学 
 **2015** FPGA 2015 最佳论文提名 (第一作者)，ACM 
 
-Academic Service / 学术服务
-======
+## Academic Service / 学术服务
+
 * Served as Program Chair at Chinasys / TURC SIGOPS 2023
 * Served as PC Member at ICCAD 2023
 * Serve as a reviewer at multiple Transactions / Journals
