@@ -68,6 +68,19 @@ Teaching
 
 -->
 
+Honors & Awards / 荣誉与奖项
+======
+1. 2023 MICRO Top Picks Honorable Mention / 体系结构年度最佳论文提名
+1. 2022 ACM Chinasys Rising Star Award / 新星奖, ACM
+1. 2022 人工智能芯片技术世界最有影响力学者（第二名），中国工程科技知识中心
+1. 2021 World's top-2\% most cited scientists (computer hardware and architecture) / 全球引用量前2%学者（计算机硬件与架构）, Elsevier
+1. 2020 人工智能芯片技术世界最有影响力学者(第四名)，中国工程科技知识中心
+1. 2019 Donald O. Pederson 最佳论文奖 (第一作者), IEEE Council on EDA
+1. 2019 院长特别奖 (1/50), 微软研究院
+1. 2016 光华奖学金 (1\%), 北京大学
+1. 2015 优秀科研奖 (1\%), 北京大学
+1. 2015 FPGA 2015 最佳论文提名 (第一作者)，ACM
+
 Academic Service / 学术服务
 ======
 * Served as Program Chair at Chinasys / TURC SIGOPS 2023

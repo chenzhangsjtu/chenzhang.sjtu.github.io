@@ -7,7 +7,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Portfolio"
+  #- title: "Honors"
   #  url: /portfolio/
 
   - title: "News"
@@ -16,8 +16,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  #- title: "Teaching"
-  #  url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
     
   #- title: "Students"
   #  url: /markdown/
