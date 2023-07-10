@@ -88,16 +88,16 @@ Teaching
 >  [**2019**] 院长特别奖 (1/50), 微软研究院   
 >  [**2016**] 光华奖学金 (1%), 北京大学  
 >  [**2015**] 优秀科研奖 (1%), 北京大学  
->  [**2015**] FPGA 2015 最佳论文提名 (第一作者)，ACM  
+>  [**2015**] FPGA 2015 Best Paper Nomination / 最佳论文提名 (第一作者)，ACM  
 
 ## Academic Service / 学术服务
 
 >  * Served as Chairs at academic events:  
->     * Program Chair: Chinasys/SIGOPS, TURC (图灵大学) 2023  
+>     * Program Chair: Chinasys/SIGOPS, TURC (图灵大会) 2023  
 >  * Served as PC Member at conferences:  
 >     * ICCAD 2023  
 >  * Serve as members at academic & society organizations:
->     * Member of BAAI
+>     * Member of BAAI 
 >     * Member of CCF TCARCH and TCICD
 >  * Serve as a reviewer at Transactions / Journals:  
 >     * TECS (ACM Transactions on Embedded Computing Systems)   
