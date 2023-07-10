@@ -20,7 +20,7 @@ redirect_from:
 
 >[2015~2016] **Visiting Scholar / 访问学者, University of California, Los Angeles / 加州大学洛杉矶分校**
 >  * Computer Science
->  * Supervisor: Prof. Jason Cong
+>  * Supervisor: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong)
 >    * National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow
 >  * [Alunimi Website](https://vast.cs.ucla.edu/people/alumni/chen-zhang)
 
