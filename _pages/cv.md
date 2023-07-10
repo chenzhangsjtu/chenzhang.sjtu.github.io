@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Chen Zhang / 张宸"
 permalink: /cv/
 author_profile: true
 redirect_from:
