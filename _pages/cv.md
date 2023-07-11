@@ -35,7 +35,7 @@ redirect_from:
 >  * Department of Micro-nano Electronics
 >  * School of Electronic Information and Electrical Engineering
 
->[2021~2023] **Alibaba T-head / 阿里巴巴平头哥**, Parallel Comupting Department
+>[2021~2023] **Alibaba T-head / 阿里巴巴平头哥**, Parallel Computing Department
 >  * Chip Architect (P8)
 >  * Duties: GPGPU Micro-architecture, Direct Chip Connection, AI Acceleration
 >  * Team Leader: Dr. Yuan Xie (VP Alibaba, IEEE/ACM/AAAS Fellow)
@@ -96,6 +96,7 @@ Teaching
 >     * Program Chair: Chinasys/SIGOPS, TURC (图灵大会) 2023  
 >  * Served as PC Member at conferences:  
 >     * ICCAD 2023  
+>     * NIPS 2023
 >  * Serve as members at academic & society organizations:
 >     * Member of BAAI 
 >     * Member of CCF TCARCH and TCICD
