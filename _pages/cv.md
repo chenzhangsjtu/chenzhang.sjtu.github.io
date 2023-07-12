@@ -11,20 +11,20 @@ redirect_from:
 
 ## Education / 教育
 
-### `[2012~2017] **Ph.D / 博士, Peking University / 北京大学**`
+### [2012~2017] **Ph.D / 博士, Peking University / 北京大学**
 >  * Computer System and Architecture
 >  * Supervisor 1: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) (Distinguished Visiting Professor until 2020)
 >  * Supervisor 2: [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)
 >  * [Alunimi Website](https://ceca.pku.edu.cn/people/alumni_postgrad/class2017g/1206149.htm)
 
 
-### `[2015~2016] **Visiting Scholar / 访问学者, University of California, Los Angeles / 加州大学洛杉矶分校**`
+### [2015~2016] **Visiting Scholar / 访问学者, University of California, Los Angeles / 加州大学洛杉矶分校**
 >  * Computer Science
 >  * Supervisor: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong)
 >    * National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow
 >  * [Alunimi Website](https://vast.cs.ucla.edu/people/alumni/chen-zhang)
 
-### `[2008~2012] **B.S. / 学士, University of Electronic Science and Technology of China / 电子科技大学**`
+### [2008~2012] **B.S. / 学士, University of Electronic Science and Technology of China / 电子科技大学**
 >  * Department of Micro-electronics
 >  * Honored Graduation
 
