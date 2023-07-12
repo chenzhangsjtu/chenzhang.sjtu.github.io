@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Chen Zhang / 张宸"
+excerpt: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
