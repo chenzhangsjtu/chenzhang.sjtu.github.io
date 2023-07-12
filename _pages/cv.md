@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education / 教育
 
->`2012~2017{: .notice}` **Ph.D / 博士, Peking University / 北京大学**
+>[2012~2017] **Ph.D / 博士, Peking University / 北京大学**
 >  * Computer System and Architecture
 >  * Supervisor 1: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) (Distinguished Visiting Professor until 2020)
 >  * Supervisor 2: [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)
