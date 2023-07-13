@@ -13,7 +13,7 @@ name                     : &name "Chen Zhang"
 description              : &description "personal description"
 url                      : https://chenzhangsjtu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhacmsra/zhacmsra.github.io"
+repository               : "chenzhangsjtu/chenzhangsjtu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chen Zhang / 张宸"
   avatar           : "bio-chen2.png"
-  bio              : "Associate Professor"
+  bio              : "Associate Professor, 博导"
   location         : "Shanghai, China"
   employer         : Shanghai Jiao Tong University
   pubmed           : #"https://dblp.uni-trier.de/pid/94/4084-1.html"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=s9LcP1AAAAAJ"
-  email            : chenzhang [dot] sjtu [at] sjtu [dot] edu [dot] cn
+  email            : chenzhang.sjtu@sjtu.edu.cn
   researchgate     : #"https://vast.cs.ucla.edu/people/alumni/chen-zhang"
   uri              : "https://dblp.uni-trier.de/pid/94/4084-1.html"
   bitbucket        :
