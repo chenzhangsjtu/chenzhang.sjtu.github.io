@@ -4,13 +4,35 @@ title: "Publications / 出版物"
 permalink: /publications/
 author_profile: true
 ---
-1. Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, *Chen Zhang*, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization", Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA 2023)【[PDF](https://chenzhangsjtu.github.io//files/2023-ISCA.pdf)】
 
-1. Cong Guo, Yuxian Qiu, Jingwen Leng, *Chen Zhang*, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo, "Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training", 2022 IEEE 40th International Conference on Computer Design (ICCD 2022)【[PDF](https://chenzhangsjtu.github.io//files/2022-ICCD.pdf)】
+## Journal Paper
 
-1. Cong Guo, *Chen Zhang*, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu, "Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization", Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://chenzhangsjtu.github.io//files/2022-MICRO.pdf)】
-  * Award: **MICRO 2023 Top Picks Honorable Mention**
-  * Keywords: AI acceleration, Tensor Core, Quantization
+### T1. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2018) 
+*  *Chen Zhang*, Guangyu Sun, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong, "Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks
+* 【[PDF](https://chenzhangsjtu.github.io//files/TCAD-2018.pdf)】
+* Citation: 600
+* Award: **2017~2019 Donald O. Pederson Best Paper Award**
+* Keyword: Convolutional Neural Network, FPGA, Design Automation, Caffe, SDAccel
+
+
+## Conference Paper
+
+### OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
+* Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, *Chen Zhang*, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
+* Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA 2023)
+* 【[PDF](https://chenzhangsjtu.github.io//files/2023-ISCA.pdf)】
+
+### Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training
+* Cong Guo, Yuxian Qiu, Jingwen Leng, *Chen Zhang*, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo
+* 2022 IEEE 40th International Conference on Computer Design (ICCD 2022)
+* 【[PDF](https://chenzhangsjtu.github.io//files/2022-ICCD.pdf)】
+
+### Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization
+* Cong Guo, *Chen Zhang*, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
+* Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)
+* Award: **MICRO 2023 Top Picks Honorable Mention**
+* Keywords: AI acceleration, Tensor Core, Quantization
+* 【[PDF](https://chenzhangsjtu.github.io//files/2022-MICRO.pdf)】
 
 1. Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, *Chen Zhang*, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo, "SQuant: On-the-fly data-free quantization via diagonal hessian approximation", International Conference on Learning (ICLR 2022) 【[PDF](https://chenzhangsjtu.github.io//files/2022-ICLR.pdf)】
 
@@ -34,11 +56,6 @@ author_profile: true
   * Keyword: Sparse Neural Network, Acceleration, GPGPU
 
 1. Shijie Cao, Lingxiao Ma, Wencong Xiao, *Chen Zhang*, Yunxin Liu, Lintao Zhang, Lanshun Nie, Zhi Yang, "Seernet: Predicting convolutional neural network feature-map sparsity through low-bit quantization", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019)【[PDF](https://chenzhangsjtu.github.io//files/2019-CVPR.pdf)】
-
-1. *Chen Zhang*, Guangyu Sun, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong, "Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2018) 【[PDF](https://chenzhangsjtu.github.io//files/TCAD-2018.pdf)】
-  * Citation: 598
-  * Award: **2017~2019 Donald O. Pederson Best Paper Award**
-  * Keyword: Convolutional Neural Network, FPGA, Design Automation, Caffe, SDAccel
 
 1. Jason Cong, Zhenman Fang, Yuchen Hao, Peng Wei, Cody Hao Yu, *Chen Zhang*, Peipei Zhou, "Best-effort FPGA programming: A few steps can go a long way", arXiv preprint arXiv:1807.01340 (2018)
 
