@@ -9,3 +9,12 @@ author_profile: true
 
 "Not perhaps out of cunning or planning but because of his variety of interests or perhaps because of the nature of the universe, the interlinking of good and evil, natural of itself." ---<cite>The Godfather</cite>
 
+
+| Principals | 阳 / Good | 阴 / Evil |
+|------------|------------------------------------------|------------------------------------------|
+| Eat 1   | Low Sugar, Low Fat, Mixure of Sugar & Fat Forbidded  | Eat as much as I want   |
+| Eat 2   | No carbohydrate after 18:00   | Eat any time I want except the forbiddedn rules   |
+|------------|------------------------------------------|------------------------------------------|
+| Workout 1   | 3 hours per week |  Start/stop at any time, at any frequency, in any form that I want  |
+| Workout 2   | 1 weighted squat per week   | I can do any workout as I want |
+
