@@ -12,12 +12,11 @@ author_profile: true
 
 | Principals | 阳 / Good | 阴 / Evil |
 |------------|------------------------------------------|------------------------------------------|
-| Eat 1   | Low Sugar, Low Fat, Forbidden Mixure of Sugar & Fat   | Eat as much as I want   |
+| Eat 1   | Low sugar, low fat, forbidden mixure of sugar & fat   | Eat as much as I want   |
 | Eat 2   | No carbohydrate take in after 18:00   | Eat any time I want except the forbiddedn rules   |
 |------------|------------------------------------------|------------------------------------------|
-| Sleep 1   | Get on bed before 23:40 |  Sleep as much as I want |
-| Sleep 2   | 1 weighted squat per week   | I can do any workout as I want |
+| Sleep 1   | Get on bed before 23:40 |  Sleep as much and at any time as I want |
 |------------|------------------------------------------|------------------------------------------|
 | Workout 1   | 3 hours per week |  Start/stop at any time, at any frequency, in any form that I want  |
-| Workout 2   | 1 weighted squat per week   | I can do any workout as I want |
+| Workout 2   | 1 weighted squat per week (80KG at least)   | I can do any workout in any workload as I want |
 
