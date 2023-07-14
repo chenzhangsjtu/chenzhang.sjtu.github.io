@@ -22,4 +22,4 @@ author_profile: true
 |------------|------------------------------------------|------------------------------------------|
 | Research 1   | Focus on 1 task every time, no email/wechat/social media, no interuption | Break, sleep, eat, drink, whenever I feel tired   |
 | Research 2   | Make a plan of this day every morning  | I feel like it is a perfect day to do anything |
-
+| Research 3   | Review my actions and goals every week  | Accept all failures, fallbacks and successes |
