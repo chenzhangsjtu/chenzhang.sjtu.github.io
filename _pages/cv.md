@@ -84,7 +84,7 @@ Teaching
 >  [**2022**] ACM Chinasys Rising Star Award / 新星奖, ACM   
 >  [**2022**] AI 2000 World's Most Influential Scholars (Chip Technology, Top-2) / 人工智能世界最有影响力学者（芯片技术,第二名），中国工程科技知识中心   
 >  [**2021**] World's top-2\% most cited scientists (computer hardware and architecture) / 全球引用量前2%学者（计算机硬件与架构）, Stanford & Elsevier    
->  [**2019**] Donald O. Pederson Best Paper Award / 最佳论文奖 (第一作者), IEEE Council on EDA   
+>  [**2019**] Donald O. Pederson Best Paper Award (First Winner from Mainland China) / 最佳论文奖 (中国大陆首个获奖者), IEEE CEDA   
 >  [**2019**] 院长特别奖 (1/50), 微软研究院   
 >  [**2016**] 光华奖学金 (1%), 北京大学  
 >  [**2015**] 优秀科研奖 (1%), 北京大学  
