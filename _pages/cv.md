@@ -94,9 +94,8 @@ Teaching
 
 >  * Served as Chairs at academic events:  
 >     * Program Chair: Chinasys/SIGOPS, TURC (图灵大会) 2023  
->  * Served as PC Member at conferences:  
->     * ICCAD 2023  
->     * NIPS 2023
+>  * Served as PC Member at conferences:   
+>     * NeurIPS/AAAI/CVPR
 >  * Serve as members at academic & society organizations:
 >     * Member of BAAI 
 >     * Member of CCF TCARCH and TCICD
