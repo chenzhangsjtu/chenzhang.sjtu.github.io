@@ -31,7 +31,7 @@ redirect_from:
 ## Work Experience / 工作经历
 
 >[2023~Present] **Shanghai Jiao Tong University / 上海交通大学**
->  * Tenure-track Associate Professor
+>  * Tenure-track Assistant Professor
 >  * Department of Micro-nano Electronics
 >  * School of Electronic Information and Electrical Engineering
 
