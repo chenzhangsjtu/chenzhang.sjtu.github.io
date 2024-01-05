@@ -19,8 +19,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Principals"
-    url: /principals/
+  #- title: "Principals"
+  #  url: /principals/
     
-  - title: "Markdown"
-    url: /markdown/
+  #- title: "Markdown"
+  #  url: /markdown/
